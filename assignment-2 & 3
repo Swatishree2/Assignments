@@ -1,0 +1,8 @@
+#Negative slicing
+mystr=("Ram is a good boy")
+print(mystr[-13:-6])
+
+#Frozen set
+mylist=['ram','hari','puja','shyam','rohit']
+x=frozenset(mylist)
+print(x)
