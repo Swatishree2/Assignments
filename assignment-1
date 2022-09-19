@@ -1,0 +1,12 @@
+#List
+print("Things needed for a treking")
+list=["food,water,medicine,clothes,sanitary things,safety cloths"]
+print(list)
+
+# Dictionary
+d1={"Rohan":"Audi","Aditi":"Mercedes","Swati":"Lamborghini","Jay":"Porsche"}
+print(d1["Swati"])
+
+#Tuple
+tp=(1,2,3,4,5)
+print(tp)
